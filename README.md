@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Srividyaacharya
+- 👋 Hi, I’m @SrividyaAchar
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Machine Leraning
 - 💞️ I’m looking to collaborate on ...
